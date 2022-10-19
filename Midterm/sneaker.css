@@ -1,0 +1,55 @@
+h1 .header{
+    color: white;
+    font-size: 164;
+}
+
+h4 .header{
+    color:white;
+    font-size: 40;
+}
+
+.header{
+    color: black
+}
+
+#logo{
+    height: 142px;
+    width: 188px;
+}
+
+body {
+    margin: 0;
+    padding: 1;
+    background-color: FFC7F6;
+}
+
+#af{
+    height: 348px;
+        width: 424px;
+}
+
+#ultraBoost{
+    height: 348px;
+        width: 424px;
+}
+
+#crocs{
+
+    height: 348px;
+        width: 424px;
+}
+
+#chucks{
+    height: 348px;
+        width: 424px;
+}
+
+#blazers{
+    height: 348px;
+        width: 424px;
+}
+
+#jordans{
+    height: 348px;
+        width: 424px;
+}
